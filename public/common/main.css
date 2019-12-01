@@ -1,0 +1,21 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    /* font-family: 'Poppins', sans-serif; */
+    /* font-family: 'Josefin Sans', sans-serif; */
+    /* font-family: 'Bitter', serif; */
+    /* font-family: 'Crete Round', serif; */
+    /* font-family: 'Patua One', cursive; */
+    /* font-family: 'Permanent Marker', cursive; */
+    /* font-family: 'Bowlby One SC', cursive; */
+    /* font-family: 'Archivo Black', sans-serif; */
+    /* font-family: 'Fredoka One', cursive; */
+    /* font-family: 'Ultra', serif; */
+    /* font-family: 'Bangers', cursive; */
+    background: hotpink;
+    line-height: 1.5em;
+}
+
+
