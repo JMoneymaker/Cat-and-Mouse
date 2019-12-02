@@ -1,0 +1,31 @@
+.header { 
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+    grid-template-rows: 1fr;
+    grid-column-gap: 0px;
+    grid-row-gap: 0px;
+}
+    .logo { 
+        display: flex;
+        align-items: center;
+        padding-left: 2em;
+        font-family: 'Bangers', cursive;
+        font-size: 80px;
+    }
+
+    .dice {
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr;
+        padding: 10px;
+        align-items: center;
+    }
+
+        button {
+            border-radius: 50%;
+            height: 80%
+        }
+
+        .die {
+            max-width: 45%;
+            padding-left: 10px;
+        }
